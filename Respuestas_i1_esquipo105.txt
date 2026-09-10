@@ -1,0 +1,7 @@
+A. alfa si ve los datos agregados.
+b. si ven los nuevos archivos
+c. si se ven los archivos que agrega beta.
+d-¿De qué forma se comunicaron ustedes?
+a través de discord 
+
+e. la mejor forma de comunicarse en GitHub es a través de los commit.
