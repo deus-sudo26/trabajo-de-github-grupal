@@ -11,3 +11,7 @@ ip 192.168.1.36
 
 A. alfa si ve los datos agregados.
 b. si ven los nuevos archivos
+
+d-¿De qué forma se comunicaron ustedes?
+a través de discord 
+
